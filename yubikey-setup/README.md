@@ -402,3 +402,4 @@ gpg --card-status
 - https://github.com/susumuota/yubikey-setup
 - https://github.com/techprober/yubikey-reference
 - https://support.yubico.com/hc/en-us/articles/360013790259-Using-Your-YubiKey-with-OpenPGP
+- https://www.yafa.moe/post/yubikey-guide
